@@ -1,0 +1,16 @@
+{
+  "url": "https://cgc.student.login",
+  "response": {
+    "status": 400,
+    "text": "{\"error\": {\"code\": \"InvalidArgumentError\", \"message\": \"Unable to canonicalize url\"}}",
+    "headers": {
+      "content-type": "application/json",
+      "x-cloud-trace-context": "a3cbdc354ffbeda88bd6df3d893c8d8b",
+      "date": "Fri, 30 Jan 2026 00:35:23 GMT",
+      "server": "Google Frontend",
+      "Content-Length": "84",
+      "via": "1.1 google",
+      "Alt-Svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+    }
+  }
+}

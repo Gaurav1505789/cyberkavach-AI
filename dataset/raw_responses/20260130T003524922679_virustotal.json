@@ -1,0 +1,4 @@
+{
+  "url": "https://cgc.student.login",
+  "response": "{\"error\": {\"code\": \"NotFoundError\", \"message\": \"URL \\\"aHR0cHM6Ly9jZ2Muc3R1ZGVudC5sb2dpbg\\\" not found\"}}"
+}

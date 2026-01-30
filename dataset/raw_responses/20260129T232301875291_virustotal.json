@@ -1,0 +1,34 @@
+{
+  "url": "http://www.google.cloud.com",
+  "response": {
+    "data": {
+      "id": "u-1e6ecb381d15be7002bf7d68e52e26fce739e8c59b0cdc235f874eb2a31b848c-a4e34ddd",
+      "type": "url_analysis",
+      "links": {
+        "self": "https://www.virustotal.com/api/v3/analyses/u-1e6ecb381d15be7002bf7d68e52e26fce739e8c59b0cdc235f874eb2a31b848c-a4e34ddd"
+      },
+      "attributes": {
+        "stats": {
+          "malicious": 0,
+          "suspicious": 0,
+          "undetected": 0,
+          "harmless": 0,
+          "timeout": 0,
+          "confirmed_timeout": 0,
+          "failure": 0,
+          "type_unsupported": 0
+        },
+        "date": 1769728980,
+        "results": {},
+        "url": "http://www.google.cloud.com/",
+        "status": "queued"
+      }
+    },
+    "meta": {
+      "url_info": {
+        "id": "1e6ecb381d15be7002bf7d68e52e26fce739e8c59b0cdc235f874eb2a31b848c",
+        "url": "http://www.google.cloud.com/"
+      }
+    }
+  }
+}

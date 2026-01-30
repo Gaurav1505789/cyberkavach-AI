@@ -1,0 +1,31 @@
+{
+  "url": "https://www.cgc.ac.in",
+  "response": {
+    "data": {
+      "id": "u-234ab100c1e1f66d54be2b5d6c9d43ebac1e508bc2305464960d6746991e8039-d26d1316",
+      "type": "analysis",
+      "links": {
+        "self": "https://www.virustotal.com/api/v3/analyses/u-234ab100c1e1f66d54be2b5d6c9d43ebac1e508bc2305464960d6746991e8039-d26d1316",
+        "item": "https://www.virustotal.com/api/v3/urls/234ab100c1e1f66d54be2b5d6c9d43ebac1e508bc2305464960d6746991e8039"
+      },
+      "attributes": {
+        "stats": {
+          "malicious": 0,
+          "suspicious": 0,
+          "undetected": 0,
+          "harmless": 0,
+          "timeout": 0
+        },
+        "status": "queued",
+        "results": {},
+        "date": 1769732295
+      }
+    },
+    "meta": {
+      "url_info": {
+        "id": "234ab100c1e1f66d54be2b5d6c9d43ebac1e508bc2305464960d6746991e8039",
+        "url": "https://www.cgc.ac.in/"
+      }
+    }
+  }
+}

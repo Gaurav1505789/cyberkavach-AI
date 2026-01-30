@@ -1,0 +1,19 @@
+{
+  "url": "http://malware.testie.test/testing/ware",
+  "response": {
+    "status": 404,
+    "text": "{\"error\": {\"code\": \"NotFoundError\", \"message\": \"URL \\\"aHR0cDovL21hbHdhcmUudGVzdGllLnRlc3QvdGVzdGluZy93YXJl\\\" not found\"}}",
+    "headers": {
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "content-encoding": "gzip",
+      "x-cloud-trace-context": "12bf0042657bd8e3152d8310c786664e",
+      "date": "Thu, 29 Jan 2026 22:07:13 GMT",
+      "server": "Google Frontend",
+      "via": "1.1 google",
+      "Alt-Svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "Transfer-Encoding": "chunked"
+    },
+    "get_url": "https://www.virustotal.com/api/v3/urls/aHR0cDovL21hbHdhcmUudGVzdGllLnRlc3QvdGVzdGluZy93YXJl"
+  }
+}

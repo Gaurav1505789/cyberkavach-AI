@@ -1,0 +1,16 @@
+{
+  "url": "https://cngsgswhtr/gkytgc.ac.in",
+  "response": {
+    "status": 400,
+    "text": "{\"error\": {\"code\": \"InvalidArgumentError\", \"message\": \"Unable to canonicalize url\"}}",
+    "headers": {
+      "content-type": "application/json",
+      "x-cloud-trace-context": "eab74db25e76cba48cbbe6ec0f2cad7f",
+      "date": "Fri, 30 Jan 2026 00:21:56 GMT",
+      "server": "Google Frontend",
+      "Content-Length": "84",
+      "via": "1.1 google",
+      "Alt-Svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+    }
+  }
+}

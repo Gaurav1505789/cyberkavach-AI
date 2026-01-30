@@ -1,0 +1,31 @@
+{
+  "url": "https://varcode.in",
+  "response": {
+    "data": {
+      "id": "u-515912abeb25e2ac1929a2302dba144df4cfbe7dd8dc304cce032a9bbd2182d2-d9ed7bd2",
+      "type": "analysis",
+      "links": {
+        "self": "https://www.virustotal.com/api/v3/analyses/u-515912abeb25e2ac1929a2302dba144df4cfbe7dd8dc304cce032a9bbd2182d2-d9ed7bd2",
+        "item": "https://www.virustotal.com/api/v3/urls/515912abeb25e2ac1929a2302dba144df4cfbe7dd8dc304cce032a9bbd2182d2"
+      },
+      "attributes": {
+        "status": "queued",
+        "results": {},
+        "stats": {
+          "malicious": 0,
+          "suspicious": 0,
+          "undetected": 0,
+          "harmless": 0,
+          "timeout": 0
+        },
+        "date": 1769733926
+      }
+    },
+    "meta": {
+      "url_info": {
+        "id": "515912abeb25e2ac1929a2302dba144df4cfbe7dd8dc304cce032a9bbd2182d2",
+        "url": "https://varcode.in/"
+      }
+    }
+  }
+}

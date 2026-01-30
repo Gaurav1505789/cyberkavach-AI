@@ -1,0 +1,16 @@
+{
+  "url": "http://malware.testing.google.test/testing/malware",
+  "response": {
+    "status": 400,
+    "text": "{\"error\": {\"code\": \"InvalidArgumentError\", \"message\": \"Unable to canonicalize url\"}}",
+    "headers": {
+      "content-type": "application/json",
+      "x-cloud-trace-context": "f17dbf6e085c789c1924476d6aeb521e",
+      "date": "Thu, 29 Jan 2026 21:23:42 GMT",
+      "server": "Google Frontend",
+      "Content-Length": "84",
+      "via": "1.1 google",
+      "Alt-Svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000"
+    }
+  }
+}

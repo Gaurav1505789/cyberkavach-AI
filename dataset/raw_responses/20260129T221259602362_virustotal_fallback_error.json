@@ -1,0 +1,19 @@
+{
+  "url": "http://malware.testing.ge.test/testing/maare",
+  "response": {
+    "status": 404,
+    "text": "{\"error\": {\"code\": \"NotFoundError\", \"message\": \"URL \\\"aHR0cDovL21hbHdhcmUudGVzdGluZy5nZS50ZXN0L3Rlc3RpbmcvbWFhcmU\\\" not found\"}}",
+    "headers": {
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "content-encoding": "gzip",
+      "x-cloud-trace-context": "94695a670e15b54ed7a71edcc950a809",
+      "date": "Thu, 29 Jan 2026 22:12:59 GMT",
+      "server": "Google Frontend",
+      "via": "1.1 google",
+      "Alt-Svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "Transfer-Encoding": "chunked"
+    },
+    "get_url": "https://www.virustotal.com/api/v3/urls/aHR0cDovL21hbHdhcmUudGVzdGluZy5nZS50ZXN0L3Rlc3RpbmcvbWFhcmU"
+  }
+}

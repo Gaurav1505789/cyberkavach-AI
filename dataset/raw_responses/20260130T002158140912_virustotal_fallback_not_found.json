@@ -1,0 +1,19 @@
+{
+  "url": "https://cngsgswhtr/gkytgc.ac.in",
+  "response": {
+    "status": 404,
+    "text": "{\"error\": {\"code\": \"NotFoundError\", \"message\": \"URL \\\"aHR0cHM6Ly9jbmdzZ3N3aHRyL2dreXRnYy5hYy5pbg\\\" not found\"}}",
+    "headers": {
+      "content-type": "application/json",
+      "vary": "Accept-Encoding",
+      "content-encoding": "gzip",
+      "x-cloud-trace-context": "325a299c95e8928cfb913080c52d5a38",
+      "date": "Fri, 30 Jan 2026 00:21:58 GMT",
+      "server": "Google Frontend",
+      "via": "1.1 google",
+      "Alt-Svc": "h3=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000",
+      "Transfer-Encoding": "chunked"
+    },
+    "get_url": "https://www.virustotal.com/api/v3/urls/aHR0cHM6Ly9jbmdzZ3N3aHRyL2dreXRnYy5hYy5pbg"
+  }
+}
